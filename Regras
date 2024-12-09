@@ -3,4 +3,12 @@ Todos os ladrilhos coloridos tem suas funções
 Ladrilhos de perguntas: os ladrilhos verdes, amarelos e vermelhos são ladrilhos onde os jogadores receberão perguntas e terão de responde-lás, se acertarem,
 serão recompensados com o avanço de casas no tabuleiro, caso contrário, serão mandados pra trás.
 
-Ladrilhos de relíquia
+Ladrilhos de relíquia: nos espaços roxos, você ganhará uma relíquia aleatória definida pelo dado, as relíquias são:
+
+Espada: Ganha a espada caso role 1 ou 2 no dado, caso alguém caia na mesma casa que você, escolha se quer ataca-lo, caso queira gire o dado e faça-o retroceder o número de casas que cair.
+
+Escudo: Ganha o escudo caso role 3 ou 4 no dado, quando for sofrer um ataque ou cair em uma armadilha, você pode usar este escudo para não receber nem uma penalidade.
+
+Relógio: Ganha o relógio caso role 5 ou 6 no dado, no início de seu turno, você pode escolher usar esta relíquia para se localizar, ganhando assim mais um dado para se mover neste turno
+
+Ladrilhos de armadilha: caso você caia no ladrilho preto, você precisará rolar dois dados, você precisa tirar um número acima de 4 para passar no teste, caso você não consiga com o primeiro dado, você poderá rolar um segundo dado para escapar, caso você não consiga, você será levado de volta ao início do tabuleiro
