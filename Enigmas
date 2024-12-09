@@ -1,0 +1,62 @@
+As perguntas e respostas que serão usadas no nosso jogo:
+
+Perguntas fáceis:
+Para que a criptografia é usada no dia a dia?
+1-A criptografia é usada para proteger informações sensíveis, como senhas, dados bancários, comunicações privadas e transações online. Ela garante a confidencialidade e segurança de dados, impedindo que pessoas não autorizadas acessem ou alterem essas informações.
+
+Qual é o objetivo da criptografia?
+O objetivo da criptografia é garantir a segurança, confidencialidade, integridade e autenticidade das informações, assegurando que dados só possam ser lidos ou alterados por pessoas autorizadas
+
+Se a mensagem for "GATO", qual será sua versão criptografada usando o método básico (A = 1, B = 2, ..., Z = 26)?
+7 1 20 15
+
+Se a sequência criptografada for "3 8 21 22 1", qual é a mensagem original usando o método "letra para número"?
+Chuva
+
+Se a sequência criptografada for "12 1 18", qual é a mensagem original usando o método "letra para número"?
+Lar
+
+Como a cifra de César funciona?
+A cifra de César é um método simples de criptografia onde cada letra do texto original é deslocada por um número fixo de posições no alfabeto. Por exemplo, com uma chave de 3, a letra A se torna D, a letra B se torna E, e assim por diante. A cifra pode ser decifrada invertendo o deslocamento. A chave indica o número de posições que cada letra será movida
+
+Perguntas médias:
+O que acontece com a letra "A" se usarmos uma chave de 3 na cifra de César?
+A letra A vira D
+
+O que acontece se o deslocamento ultrapassar a letra "Z"?
+Se o deslocamento ultrapassar a letra "Z", o alfabeto "volta" ao início. Isso é chamado de circularidade. Por exemplo, se deslocarmos a letra "Y" com uma chave de 3:
+Y → B
+
+Usando a cifra de César com uma chave de 2, como a palavra "SOL" ficaria cifrada?
+U Q N
+
+Qual seria a mensagem cifrada para "SEGREDO", usando a cifra de César com chave de 2?
+UGITGFQ
+
+Como decifrar a mensagem "VHKUJFW", sabendo que foi codificada com uma chave de 2?
+TISHDU
+
+Se a mensagem cifrada é "NKRRU", qual era a mensagem original ao usar uma chave de 2?
+LIPPS
+
+Perguntas difíceis:
+Usando a cifra de César com chave 4, como a palavra "CASA" seria cifrada?
+GEWE
+
+O que acontece com a letra "Z" ao usar a cifra de César com chave 4?
+A letra Z se torna D
+
+Qual é a mensagem original se a cifra de César com chave 4 gerou "LIPPS"?
+HELLO
+
+Como a palavra "LUZ" seria cifrada usando a cifra de César com chave 5?
+QZE
+
+Decifre a mensagem "OLHQJ" sabendo que foi criada com a cifra de César e chave 5
+JGCLE
+
+Usando a cifra de César com chave 5, como a palavra 'AMIGO' seria criptografada?
+FRNLT
+
+Se a mensagem cifrada é "FJFXJW," qual era o texto original ao usar a cifra de César com chave de 5?
+EASER
